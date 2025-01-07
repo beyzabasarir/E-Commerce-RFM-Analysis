@@ -119,6 +119,7 @@ ORDER BY customer_count DESC;
 ## 📊 Visualization
 Below is a visualization showcasing the customer segments derived from the analysis:  
 
+![RFM Analysis Customer Segmentation](https://github.com/beyzabasarir/SQL-RFM-Analysis/blob/main/customer-segmentation.png)
 
 ---
 
@@ -140,4 +141,4 @@ The analysis highlights distinct customer segments, emphasizing the following:
 
 ---
 
-Feel free to explore the repository and reach out with any questions or feedback! 😊 
+Feel free to explore the repository and reach out with any questions or feedback! 😊 Thank you for your time and interest!
