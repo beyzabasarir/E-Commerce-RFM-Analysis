@@ -29,12 +29,12 @@ The primary goal of this project was to **segment customers** using RFM analysis
 - **Frequency**: Measured by the total number of purchases per customer.  
 - **Monetary**: Assessed based on total customer spending, filtered within a valid range to avoid outliers.  
 
-📄 **SQL queries** used for RFM calculations are available [here](https://github.com/beyzabasarir/SQL-RFM-Analysis/blob/main/rfm-analysis.sql).
+📄 **SQL queries** used for RFM calculations are available [here](https://github.com/beyzabasarir/E-Commerce-RFM-Analysis/blob/main/rfm-analysis.sql).
 
 ### 3. **Visualization**  
 - Analysis results were exported to **Python** for visualization.  
 - Bar charts and heatmaps were created to illustrate customer segmentation insights.  
-📊 Check the **Python notebook** [here](https://github.com/beyzabasarir/SQL-RFM-Analysis/blob/main/rfm_analysis_notebook.ipynb).
+📊 Check the **Python notebook** [here](https://github.com/beyzabasarir/E-Commerce-RFM-Analysis/blob/main/rfm_analysis_notebook.ipynb).
 
 ---
 
@@ -119,7 +119,7 @@ ORDER BY customer_count DESC;
 ## 📊 Visualization
 Below is a visualization showcasing the customer segments derived from the analysis:  
 
-![RFM Analysis Customer Segmentation](https://github.com/beyzabasarir/SQL-RFM-Analysis/blob/main/customer-segmentation.png)
+![RFM Analysis Customer Segmentation](https://github.com/beyzabasarir/E-Commerce-RFM-Analysis/blob/main/customer-segmentation.png).
 
 ---
 
@@ -136,8 +136,8 @@ The analysis highlights distinct customer segments, emphasizing the following:
 
 ## 🔗 Repository Links  
 
-- **[SQL Analysis](https://github.com/beyzabasarir/SQL-RFM-Analysis/blob/main/rfm-analysis.sql)**  
-- **[Python Notebook](https://github.com/beyzabasarir/SQL-RFM-Analysis/blob/main/rfm_analysis_notebook.ipynb)**  
+- **[SQL Analysis](https://github.com/beyzabasarir/E-Commerce-RFM-Analysis/blob/main/rfm-analysis.sql)**  
+- **[Python Notebook](https://github.com/beyzabasarir/E-Commerce-RFM-Analysis/blob/main/rfm_analysis_notebook.ipynb)**  
 
 ---
 
